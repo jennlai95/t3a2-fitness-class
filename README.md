@@ -4,7 +4,7 @@
 ## Resources
 
 - <a href= https://github.com/jennlai95/t3a2-fitness-now-front-end > Front end repo </a>
--  <a href= https://github.com/jennlai95/fitness-now-back-end > Back end repo </a>
+-  <a href= https://github.com/jennlai95/t3a2-fitness-now-back-end > Back end repo </a>
 - [Notion project management](https://flashy-mushroom-c40.notion.site/cd721472bb514036bebd6fdf9146bf67?v=584439e240ef474f81ce5f17940f705f&pvs=4 "Notion")
 - [Wireframes-figma](https://www.figma.com/file/lpl5nVrmbn0s1fxrgEks3l/Wireframe-Fitness-Now?type=design&node-id=0%3A1&mode=design&t=oifo3NLTtMHAkr5n-1)
 
