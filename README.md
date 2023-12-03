@@ -4,8 +4,10 @@
 ## Resources
 
 - <a href= https://github.com/jennlai95/t3a2-fitness-now-front-end > Front end repo </a>
--  <a href= https://github.com/jennlai95/t3a2-fitness-now-front-end > Back end repo </a>
-- <a href= https://flashy-mushroom-c40.notion.site/cd721472bb514036bebd6fdf9146bf67?=584439e240ef474f81ce5f17940f705f&pvs=4> Project management Notion </a>
+-  <a href= https://github.com/jennlai95/fitness-now-back-end > Back end repo </a>
+- [Notion project management](https://flashy-mushroom-c40.notion.site/cd721472bb514036bebd6fdf9146bf67?v=584439e240ef474f81ce5f17940f705f&pvs=4 "Notion")
+- [Wireframes-figma](https://www.figma.com/file/lpl5nVrmbn0s1fxrgEks3l/Wireframe-Fitness-Now?type=design&node-id=0%3A1&mode=design&t=oifo3NLTtMHAkr5n-1)
+
 
 # Part A 
 # Description 
@@ -84,8 +86,8 @@ The target audience is then split between the clients and the gym who is hosting
 
 #### Deployment 
 
-- Heroku
-- Netlify
+- Heroku - back-end
+- Netlify - front-end
 
 #### Testing 
 
@@ -140,32 +142,38 @@ Notion
 
 ### Admin users
 #### 1. Admin staff 
-- John Jacob - Staff/ Class instructor for the gym
+- John  - Staff/ Class instructor for the gym
+I am John and I'm a very passionate yoga instructor. I'm 32 years old. I like to view the class bookings ahead of time so I can anticipate who will be joining. As I have a lot of regular clients I also like to tailor my group classes to their needs and level
 - What: I want to be able to view clients and manage incoming class bookings 
 - Why: This allows me to view who will be attending each class and anticipate the numbers better
 
 #### 2. Admin Staff
 
 - Esther - Staff 
-- What: I want a way to manage the user accounts and view all relevant details of the registered users
-- Why: This allows me to view user information if needed and also delete/deactivate any user accounts when they request it
+My name is Esther I work as as the administration staff for Fitness Now. I'm 25 years old. I am very detail oriented and I love clear and easy organisation. Currently managing the upcoming bookings on Excel makes it hard to keep track of as its not always up to date. 
+- What: I want a way to manage the user accounts and view all relevant details of the registered users. Furthermore, I want to be able to keep track of all upcoming classes and who has booked the classes
+- Why: This allows me to view user information if needed and also delete/deactivate any user accounts when they request it. I also want to be able to add new bookings or view/delete bookings. 
 
 #### 3. Admin Staff
 - Chloe - Class instructor 
-- What: I want the ability to change the schedule on the bookinds 
+I am Chloe, I have been working at this studio as a pilates instructor for 2 years. I am 28 years old. I love working at this studio as its very flexible with timing. As a preference I prefer pastel colours for our website as it matches our current studio
+- What: I want the ability to change the schedule on the bookings
 - Why: This is so I can add, edit or delete specific class and their details on the the website. This includes editing class times , description such as which instructor is running each class.
 
-### Registered clients
+### Clients
 
 - Dylan - Client
+My name is Dylan I'm 36 years old. I am a yoga lover however I am also a very busy, sometimes I have to cancel my classes and it's easier if I can do it over the app rather than over the phone
 - What: I want to be able to view and cancel current bookings 
 - Why: Sometimes there is an unplanned interruption and I need to cancel my upcoming booking. It will be nice to be able to do this via the website/app as I may be too busy to call to cancel
 
 - Mary - Client 
+- My name is Mary and I am a semi-casual client. I sometimes attend classes 2/3 times per weeks depending on my schedule. I also like to book classes ahead of time so I can get a spot in the class of my preferred time
 - What: I want to be notified if a class has schedule is moved 
-- Why: This is so I can plan my time better and know when to show up
+- Why: This is so I can plan my time better and know if the class was moved so I can then cancel or change class
 
 - Stuart - Client 
+- I am an avid fitness lover and I have just moved to the area. I am currently looking for a new fitness studio and being able to sign up online makes me more likely to sign up for regular visits at the studio.
 - What: I want to be able to register/login 
 - Why: This is so  I can keep track of my account and upcoming bookings so that I can plan my own schedule. 
 
@@ -174,16 +182,87 @@ Notion
 
 Website colours
 
-#A8D0E6
+Temporary website colours 
 
-#2779A7
+![Alt text](Images/tentative-colours.jpg)
 
-#E9997F
+Website colour palette after user feedback
 
-#E0C9C1
+Colours were changed to a more muted palette due to staff preference
+
+![Alt text](<Images/website colours.jpg>)
+
+### Desktop  Wireframes
+
+Screenshots and link 
+
+
+[figma](https://www.figma.com/file/lpl5nVrmbn0s1fxrgEks3l/Wireframe-Fitness-Now?type=design&node-id=0%3A1&mode=design&t=oifo3NLTtMHAkr5n-1)
+
+#### Home page & Class &  Schedule
+
+![Desktop-home-class](Images/desktop-home-class.jpg)
+
+#### Login & registration
+
+![Desktop-login-wireframe](Images/desktop-login.jpg)
+
+
+#### Booking pages
+
+![Alt text](Images/desktop-booking.jpg)
+
+#### ADMIN ONLY VIEW 
+![Desktop Admin](Images/desktop-admin.jpg)
+
+#### User profile page - all users
+
+![Desktop user page](Images/desktop-profile.jpg)
+
+### Mobile  Wireframes
+#### Home page & Class Schedule
+
+![Mobile](image.png)
+
+#### Login and Registration
+
+![Mobile login](Images/Login-mobile.jpg)
+
+#### Booking pages and profile
+
+![Booking](Images/mobile-booking.jpg)
+
+#### Admin only pages
+
+![Admin mobile](Images/mobile-admin-only.jpg)
+
+
+### Tablet Wireframes
+
+#### Home, class and timetable
+
+![Alt text](Images/ipad-home.jpg)
+
+#### Login and registration
+![Alt text](Images/tablet-login.jpg)
+
+#### Booking pages
+
+![Alt text](<Images/tablet booking.jpg>)
+#### profile page
+
+
+![Alt text](Images/tablet-profile.jpg)
+
+#### Admin only views
+
+![Alt text](Images/ipad-admin.jpg)
 
 ## R6  Screenshots of your Trello board throughout the duration of the project
 
+Project management was done on notion due to ease of access and the editable template. 
+
+[Notion project management](https://flashy-mushroom-c40.notion.site/cd721472bb514036bebd6fdf9146bf67?v=584439e240ef474f81ce5f17940f705f&pvs=4 "Notion")
 DAY 1 
 
 ![Day 1](<Images/Day 1 .jpg>)
@@ -196,7 +275,13 @@ Part B overview planning
 
 ![Part B](<Images/PART B planning.jpg>)
 
-Last day
+Final week
 
 
 ![Alt text](<Images/Last day.jpg>)
+
+Final day
+
+![Alt text](<Images/final day.jpg>)
+
+![Alt text](<Images/calendar view.jpg>)
