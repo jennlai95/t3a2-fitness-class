@@ -112,11 +112,11 @@ Notion
 ## R2 Dataflow Diagram
 
 
-![Alt text](<Images/dataflow diagram.jpg>)
+![Alt text](<docs/dataflow diagram.jpg>)
 
 ## R3 Application Architecture Diagram
 
-![Alt text](<Images/APP diagram.jpg>)
+![Alt text](<docs/APP diagram.jpg>)
 
 
 
@@ -184,13 +184,13 @@ Website colours
 
 Temporary website colours 
 
-![Alt text](Images/tentative-colours.jpg)
+![Alt text](docs/tentative-colours.jpg)
 
 Website colour palette after user feedback
 
 Colours were changed to a more muted palette due to staff preference
 
-![Alt text](<Images/website colours.jpg>)
+![Alt text](<docs/website colours.jpg>)
 
 ### Desktop  Wireframes
 
@@ -201,100 +201,100 @@ Screenshots and link
 
 #### Home page & Class &  Schedule
 
-![Desktop-home-class](Images/desktop-home-class.jpg)
+![Desktop-home-class](docs/desktop-home-class.jpg)
 
 Desktop home page
-![Alt text](<Images/desktop home.jpg>)
+![Alt text](<docs/desktop home.jpg>)
 
 Desktop class schedule/timetable
 
-![Alt text](<Images/desktop schedule.jpg>)
+![Alt text](<docs/desktop schedule.jpg>)
 
-![Alt text](<Images/desktop calss.jpg>)
+![Alt text](<docs/desktop calss.jpg>)
 #### Login & registration
 
-![Desktop-login-wireframe](Images/desktop-login.jpg)
+![Desktop-login-wireframe](docs/desktop-login.jpg)
 
 
 #### Booking pages
 
-![Alt text](Images/desktop-booking.jpg)
+![Alt text](docs/desktop-booking.jpg)
 
 #### ADMIN ONLY VIEW 
-![Desktop Admin](Images/desktop-admin.jpg)
+![Desktop Admin](docs/desktop-admin.jpg)
 
-![Alt text](Images/admin-class.jpg)
+![Alt text](docs/admin-class.jpg)
 
-![Alt text](Images/admin-profile.jpg)
+![Alt text](docs/admin-profile.jpg)
 
 #### User profile page - all users
 
-![Desktop user page](Images/desktop-profile.jpg)
+![Desktop user page](docs/desktop-profile.jpg)
 
 
 ### Mobile  Wireframes
 #### Home page & Class Schedule
 
-![Mobile](image.png)
+![Mobile](docs/image.png)
 
 #### Login and Registration
 
-![Mobile login](Images/Login-mobile.jpg)
+![Mobile login](docs/Login-mobile.jpg)
 
 #### Booking pages and profile
 
-![Booking](Images/mobile-booking.jpg)
+![Booking](docs/mobile-booking.jpg)
 
 #### Admin only pages
 
-![Admin mobile](Images/mobile-admin-only.jpg)
+![Admin mobile](docs/mobile-admin-only.jpg)
 
 
 ### Tablet Wireframes
 
 #### Home, class and timetable
 
-![Alt text](Images/ipad-home.jpg)
+![Alt text](docs/ipad-home.jpg)
 
 #### Login and registration
-![Alt text](Images/tablet-login.jpg)
+![Alt text](docs/tablet-login.jpg)
 
 #### Booking pages
 
-![Alt text](<Images/tablet booking.jpg>)
+![Alt text](<docs/tablet booking.jpg>)
 #### profile page
 
 
-![Alt text](Images/tablet-profile.jpg)
+![Alt text](docs/tablet-profile.jpg)
 
 #### Admin only views
 
-![Alt text](Images/ipad-admin.jpg)
+![Alt text](docs/ipad-admin.jpg)
 
 ## R6  Screenshots of your Trello board throughout the duration of the project
 
-Project management was done on notion due to ease of access and the editable template. 
+Project management was done on notion due to ease of access and the editable template and calendar overview.
 
 [Notion project management](https://flashy-mushroom-c40.notion.site/cd721472bb514036bebd6fdf9146bf67?v=584439e240ef474f81ce5f17940f705f&pvs=4 "Notion")
 DAY 1 
 
-![Day 1](<Images/Day 1 .jpg>)
+![Day 1](<docs/Day 1 .jpg>)
 
 Week 2
 
-![Alt text](<Images/WEEK 2.jpg>)
+![Alt text](<docs/WEEK 2.jpg>)
 
 Part B overview planning
 
-![Part B](<Images/PART B planning.jpg>)
+![Part B](<docs/PART B planning.jpg>)
 
 Final week
 
 
-![Alt text](<Images/Last day.jpg>)
+![Alt text](<docs/Last day.jpg>)
 
 Final day
 
-![Alt text](<Images/final day.jpg>)
+![Alt text](<docs/final day.jpg>)
 
-![Alt text](<Images/calendar view.jpg>)
+![Alt text](<docs/calendar view.jpg>)
