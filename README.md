@@ -203,6 +203,14 @@ Screenshots and link
 
 ![Desktop-home-class](Images/desktop-home-class.jpg)
 
+Desktop home page
+![Alt text](<Images/desktop home.jpg>)
+
+Desktop class schedule/timetable
+
+![Alt text](<Images/desktop schedule.jpg>)
+
+![Alt text](<Images/desktop calss.jpg>)
 #### Login & registration
 
 ![Desktop-login-wireframe](Images/desktop-login.jpg)
@@ -215,9 +223,14 @@ Screenshots and link
 #### ADMIN ONLY VIEW 
 ![Desktop Admin](Images/desktop-admin.jpg)
 
+![Alt text](Images/admin-class.jpg)
+
+![Alt text](Images/admin-profile.jpg)
+
 #### User profile page - all users
 
 ![Desktop user page](Images/desktop-profile.jpg)
+
 
 ### Mobile  Wireframes
 #### Home page & Class Schedule
